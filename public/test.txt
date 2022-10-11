@@ -1,0 +1,19 @@
+JustPaste.it 
+
+Program to print hello world
+
+2. Program to add two numbers.
+
+3. Program to check whether a given number is odd or even
+
+4. Program to check whether a given number is prime or not
+≪ ↑ ↓ Viewing[SSL] <JustPaste.it - Share Text & Images the Easy Way>
+2. Program to find the smallest element in an array
+
+3. Program to replace a particular element in an array.
+
+4. Program to find the second largest element in an array.
+
+5. Program to find the largest element in an NXN matrix.
+
+≪ ↑ ↓ Viewing[SSL] <JustPaste.it - Share Text & Images the Easy Way>
