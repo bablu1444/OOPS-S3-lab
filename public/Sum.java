@@ -1,5 +1,5 @@
 import java.io.*;
-//import java.util.scanner;
+import java.util.scanner;
 
 class Sum
 {
@@ -7,12 +7,12 @@ class Sum
 public static void main(String args[])
 {
 
-int a=5;
-int b=6;
+int a=Integer.parseInt(args[0];
+int b=Integer.parseInt(args[1];
 int c=a+b;
 
 
-System.out.print("The sum is: "+ c+"\n");
+System.out.println("The sum is: "+ c+"\n");
 
 }
 }
