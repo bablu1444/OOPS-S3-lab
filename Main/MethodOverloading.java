@@ -11,6 +11,8 @@ class Shape{
    void area(int l){
        System.out.println("the area is "+l*l);
    }}
+
+   
    class MethodOverloading{
        public static void main(String[] args) {
            Shape s = new Shape();
